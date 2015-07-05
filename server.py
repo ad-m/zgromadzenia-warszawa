@@ -29,7 +29,7 @@ def generate_calendar():
         text = json.dumps(dict(zip(label, values)), indent=4)
 
         event = Event()
-        event.add('summary', text)
+        event.add('description', text)
         event.add('dtstart', date)
         event.add('dtend', date)
         cal.add_component(event)
