@@ -1,4 +1,4 @@
-beautifulsoup4==4.4.1
+beautifulsoup4==4.5.0
 icalendar==3.10
 ipython==5.0.0
 requests==2.10.0
