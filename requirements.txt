@@ -3,5 +3,5 @@ icalendar==3.11.1
 ipython==5.1.0
 requests==2.12.4
 uWSGI==2.0.14
-requests-cache==0.4.12
+requests-cache==0.4.13
 
