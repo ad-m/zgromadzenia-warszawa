@@ -1,6 +1,6 @@
 beautifulsoup4==4.6.0
 icalendar==3.11.7
-ipython==6.1.0
+ipython==6.2.0
 requests==2.18.4
 uWSGI==2.0.15
 requests-cache==0.4.13
